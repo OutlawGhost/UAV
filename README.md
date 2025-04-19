@@ -37,7 +37,5 @@ Aerospace & Defense: Simulating UAV routing in radiological emergencies.
 
 Disaster Management: Planning safe drone delivery paths in hazardous zones.
 
-Robotics & AI: Teaching spatial intelligence in autonomous systems.
-
-Research & Education: Demonstrating real-time A* pathfinding with obstacles.
+Research & Education: Demonstrating real-time A* pathfinding.
 
